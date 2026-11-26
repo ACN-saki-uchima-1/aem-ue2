@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://main--aem-ue--acn-saki-uchima-1.aem.live/sitemap.xml
+Sitemap: https://main--aem-ue2--acn-saki-uchima-1.aem.live/sitemap.xml
