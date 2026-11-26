@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p241508-e2403466.adobeaemcloud.com/bin/franklin.delivery/ACN-saki-uchima-1/aem-ue2/main"
-    type: "markup"
-    suffix: ".html"
